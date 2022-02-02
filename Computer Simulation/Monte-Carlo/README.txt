@@ -1,0 +1,1 @@
+Simulates the customer flow of a store at different times of the day
